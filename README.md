@@ -13,7 +13,10 @@
 - Member 3: [prathibha b] - [mar baselios christain college of engineering and technology]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Silent Alarm
+
+Project Description:
+The Silent Alarm is an intentionally useless project designed for entertainment and to demonstrate basic  programming skills. It is a "stealthy" alarm system that alerts the user by doing absolutely nothing. The idea is to mimic an actual alarm system without  any practical functionality  or impact]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -53,12 +56,12 @@ Final output
 
 ### Project Demo
 # Video
-https://drive.google.com/file/d/1OlquEwjjgHBNMeQ9vWuDIwUKt8un6RA0/view?usp=drivesdk
+https://drive.google.com/file/d/1ZKrlj-CrYOXmAtruK59CJt2CXysBN_Au/view?usp=sharing
 
-A silent alarm program is a security feature designed to alert authorities discreetly without drawing attention. It typically involves a button or device that, when activated, sends a signal to law enforcement or security personnel without making a loud noise or alerting an intruder.
+
 
 Key Features:
-Discreet Activation: Users can trigger the alarm quietly, often by pressing a hidden button or using a mobile app.
+
 
 Immediate Alert: Once activated, the system sends an alert to designated authorities, such as local police or a security team, enabling a quick response.
 
