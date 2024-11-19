@@ -18,10 +18,7 @@ https://drive.google.com/file/d/1ZKrlj-CrYOXmAtruK59CJt2CXysBN_Au/view?usp=shari
 - Member 3: [prathibha b] - [mar baselios christain college of engineering and technology]
 
 ### Project Description
-[Silent Alarm
-
-Project Description:
-The Silent Alarm is an intentionally useless project designed for entertainment and to demonstrate basic  programming skills. It is a "stealthy" alarm system that alerts the user by doing absolutely nothing. The idea is to mimic an actual alarm system without  any practical functionality  or impact]
+[The Silent Alarm is an intentionally useless project designed for entertainment and to demonstrate basic  programming skills. It is a "stealthy" alarm system that alerts the user by doing absolutely nothing. The idea is to mimic an actual alarm system without  any practical functionality  or impact]
 
 ### The Problem (that doesn't exist)
 [The world is filled with people who struggle to wake up on time, often relying on loud, jarring alarms that disrupt their sleep. These traditional alarms can lead to stress, fatigue, and a negative start to the day.]
