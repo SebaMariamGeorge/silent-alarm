@@ -2,7 +2,8 @@
 
 # [silent alarm ] 🎯
 
-#URL:https://silent-alarm.vercel.app/
+# URL
+https://silent-alarm.vercel.app/
 # Video
 https://drive.google.com/file/d/1ZKrlj-CrYOXmAtruK59CJt2CXysBN_Au/view?usp=sharing
 
