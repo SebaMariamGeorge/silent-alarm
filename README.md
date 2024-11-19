@@ -1,6 +1,6 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [silent alarm ] 🎯
+# Silent Alarm 🎯
 
 # URL
 https://silent-alarm.vercel.app/
@@ -13,9 +13,9 @@ https://drive.google.com/file/d/1ZKrlj-CrYOXmAtruK59CJt2CXysBN_Au/view?usp=shari
 
 
 ### Team Members
-- Team Lead: [linna theres joy] - [mar baselios christain college of engineering and technology]
-- Member 2: [seba mariam george] - [mar baselios christain college of engineering and technology]
-- Member 3: [prathibha b] - [mar baselios christain college of engineering and technology]
+- Team Lead: Linna Theres Joy - Mar Baselios Christain College of Engineering and Technology
+- Member 2: Seba Mariam George - Mar Baselios Christain College of Engineering and Technology
+- Member 3: Prathibha B - Mar Baselios Christain College of Engineering and Technology
 
 ### Project Description
 The Silent Alarm is an intentionally useless project designed for entertainment and to demonstrate basic  programming skills. It is a "stealthy" alarm system that alerts the user by doing absolutely nothing. The idea is to mimic an actual alarm system without  any practical functionality  or impact 
@@ -59,9 +59,9 @@ https://drive.google.com/file/d/1ZKrlj-CrYOXmAtruK59CJt2CXysBN_Au/view?usp=shari
 
 
 ## Team Contributions
-- linna theres joy: UI/UX
-- seba mariam george: idea generation
-- prathibha b: building code
+- Linna Theres Joy: UI/UX, Code Building
+- Seba Mariam George: Idea Generation, Code Building
+- Prathibha B: Documentation, Code Building
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
