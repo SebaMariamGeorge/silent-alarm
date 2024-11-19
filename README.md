@@ -62,7 +62,7 @@ https://drive.google.com/file/d/1ZKrlj-CrYOXmAtruK59CJt2CXysBN_Au/view?usp=shari
 
 
 ## Team Contributions
-- [linnna theres joy]: [helped  in creating code ]
+- [linna theres joy]: [helped  in creating code ]
 - [seba mariam george]: [helped in creating code]
 - [prathibha b]: [helped in creating a code]
 
